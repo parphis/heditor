@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.332,=D:\ActDev\XE3\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,D:\04 Development\HEditor\hedit.cbproj=D:\ActDev\XE3\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.448,D:\04 Development\HEditor\heditormain.cpp=D:\ActDev\XE3\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.244,=D:\ActDev\XE3\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.448,D:\04 Development\HEditor\heditormain.h=D:\ActDev\XE3\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,=D:\ActDev\XE3\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.448,D:\04 Development\HEditor\heditormain.dfm=D:\ActDev\XE3\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.516,D:\04 Development\HEditor\heditor.h=D:\ActDev\XE3\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.322,=D:\ActDev\XE3\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
